@@ -10,3 +10,5 @@ numero1
 numero 2
 numero 3
 >>>>>>> ejemplo 2y3
+
+fue amistoso
